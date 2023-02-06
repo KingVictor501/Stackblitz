@@ -1,4 +1,3 @@
-/*
 const pizzaToppings = ["pepperoni", "mushrooms", "sausage", "peppers"];
 
 function greetCustomer() {
@@ -31,4 +30,3 @@ return pizzaObject;
 }
 
 servePizza(preparePizza(getPizzaOrder('Small', 'hand tossed', 'pepperoni', 'mushrooms', 'sausage', 'peppers')))
-\*
